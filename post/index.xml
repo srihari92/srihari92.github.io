@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Srihari&#39;s Site</title>
-    <link>/post/</link>
+    <link>https://srihari92.github.io/post/</link>
     <description>Recent content in Posts on Srihari&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2017 21:47:49 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 23:31:09 +0530</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://srihari92.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Static Site Generation With Disqus</title>
+      <link>https://srihari92.github.io/2017/07/static-site-generation-with-disqus/</link>
+      <pubDate>Wed, 05 Jul 2017 23:31:09 +0530</pubDate>
+      
+      <guid>https://srihari92.github.io/2017/07/static-site-generation-with-disqus/</guid>
+      <description>Hi friends, i am still working on this. Comeback soon.</description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
-      <link>/2017/07/my-first-post/</link>
+      <link>https://srihari92.github.io/2017/07/my-first-post/</link>
       <pubDate>Wed, 05 Jul 2017 21:47:49 +0530</pubDate>
       
-      <guid>/2017/07/my-first-post/</guid>
+      <guid>https://srihari92.github.io/2017/07/my-first-post/</guid>
       <description>Hello! Welcome to my Blog. Please come back to my block after sometime to have fun. I am still working on constrution of this site. See you soon!! Thanks :)</description>
     </item>
     
