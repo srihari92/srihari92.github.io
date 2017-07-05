@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Srihari&#39;s Website</title>
+    <title>Srihari&#39;s Site</title>
     <link>/</link>
-    <description>Recent content on Srihari&#39;s Website</description>
+    <description>Recent content on Srihari&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jul 2017 22:48:11 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 21:47:49 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Post</title>
-      <link>/2017/07/first-post/</link>
-      <pubDate>Mon, 03 Jul 2017 22:48:11 +0530</pubDate>
+      <title>My First Post</title>
+      <link>/2017/07/my-first-post/</link>
+      <pubDate>Wed, 05 Jul 2017 21:47:49 +0530</pubDate>
       
-      <guid>/2017/07/first-post/</guid>
-      <description>Hello!
-Welcome to my Blog. Please come back to my block after sometime to have fun.
-I am still working on constrution of this site. See you soon!! Thanks :)</description>
+      <guid>/2017/07/my-first-post/</guid>
+      <description>Hello! Welcome to my Blog. Please come back to my block after sometime to have fun. I am still working on constrution of this site. See you soon!! Thanks :)</description>
     </item>
     
   </channel>
